@@ -1,1 +1,1 @@
-My first OCaml's program :-P
+My first program written in OCaml
